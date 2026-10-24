@@ -246,4 +246,4 @@ This repository serves as the official landing page for Vectorworks. The softwar
 **Get the most recent version of Vectorworks today!**
 
 ---
-**Last updated:** 2026-10-24 17:58:55 UTC
+**Last updated:** 2026-10-24 20:39:23 UTC
